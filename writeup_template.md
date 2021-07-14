@@ -9,7 +9,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./example_images/gray_form.png "Grayscale"
+[Gray]: ./example_images/gray_form.png "Grayscale"
+[Blur]: ./example_images/blur_form.png "Blur"
+[Canny]: ./example_images/canny_form.png "Canny"
+[MaskedCanny]: ./example_images/masked_canny_form.png "Masked Canny"
+[Hough]: ./example_images/hough_lines.png "Hough Lines"
+[Combination]: ./example_images/combination.png "Combination"
 
 ---
 
@@ -32,27 +37,27 @@ To determine the left and right line, slope m was calculated. Therefore, these p
 Image Examples:
 1) **Gray Form**
  
- ![alt text][image1]
+ ![alt text][Gray]
 
 2) **Blur Form**
  
- ![image](https://user-images.githubusercontent.com/35730346/125648880-4db8391d-2e75-4793-ab77-5062f1290360.png)
+ ![alt text][Blur]
 
 3) **Canny Form**
  
- ![image](https://user-images.githubusercontent.com/35730346/125648967-d3a9b50e-a03e-4840-bae6-211d76b0afae.png)
+ ![alt text][Canny]
 
 4) **Masked Canny Form**
  
- ![image](https://user-images.githubusercontent.com/35730346/125649602-4f7cc2e6-a57c-4cda-9d27-e8103ecbe745.png)
+ ![alt text][MaskedCanny]
 
 5) **Hough Lines**
  
- ![image](https://user-images.githubusercontent.com/35730346/125649664-e07807c1-7421-48b0-bcdc-1ba2c1aeaa88.png)
+![alt text][Hough]
 
 6) **Combination with initial image**
  
- ![image](https://user-images.githubusercontent.com/35730346/125649749-270a6a0e-6a88-4ece-b940-210dbce6e7ab.png)
+ ![alt text][Combination]
  
 
 
