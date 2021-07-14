@@ -61,10 +61,10 @@ Image Examples:
  
 
 
-
-
-
 ### 2. Identify potential shortcomings with your current pipeline
+
+
+
 
 
 One potential shortcoming would be what would happen when ... 
