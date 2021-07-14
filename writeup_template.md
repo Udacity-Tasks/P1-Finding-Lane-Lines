@@ -63,17 +63,8 @@ Image Examples:
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-
-
-
-
-One potential shortcoming would be what would happen when ... 
-
-Another shortcoming could be ...
-
+One potential shortcoming would be to increase the degree of the polynomial in the algorithm. By using 1st-degree polynomial, it is possible to draw a straight line. Therefore, in the challenge video, not possible to produce the best fit lines for the road lines with a 1st-degree polynomial. Instead, it is possible to increase the number of the points, then to draw polynomial through these points. 
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to ...
-
-Another potential improvement could be to ...
+A possible improvement would be to use another advanced method to select a region of interest. There is no guarantee to select always correct region, therefore, there should be an algorithm to determine fitting the best RoI in the scene. Also, the selection of the color here is not the best method. More advanced methods should be used. 
